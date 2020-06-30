@@ -1,9 +1,9 @@
 source 'https://github.com/CocoaPods/Specs.git'
 target 'iOS_Swift_lc' do
-platform :ios, '13.0'
-inhibit_all_warnings!
-use_frameworks!
-
-pod 'Alamofire'
-
+  platform :ios, '13.0'
+  inhibit_all_warnings!
+  use_frameworks!
+  
+  pod 'Alamofire'
+  
 end
